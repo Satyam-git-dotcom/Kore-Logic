@@ -15,7 +15,7 @@
 
 **Kore Logic** is an AI-powered Career Hyper-Personalization Platform that helps students, fresh graduates, and professionals build personalized career journeys. By analyzing your unique profile, skills, goals, and experience, Kore Logic intelligently generates personalized career roadmaps, skill gap analyses, project recommendations, internship matches, and provides continuous AI mentoring.
 
-[Live Demo](#) • [Frontend URL](#) • [Backend URL](#) • [Documentation URL](#) • [Presentation URL](#) • [Video Demo URL](#)
+[Live Demo](https://kore-logic-glblk3vw8-satyam12303-6925s-projects.vercel.app) • [Frontend URL](https://kore-logic-glblk3vw8-satyam12303-6925s-projects.vercel.app) • [Backend URL](#) • [Documentation URL](#) • [Presentation URL](#) • [Video Demo URL](#)
 
 </div>
 
