@@ -626,9 +626,7 @@ Kore Logic is engineered for modern cloud infrastructure:
 ## 👨‍💻 Contributors
 
 **Primary Developer:**
-- **Satyam Vishwakarma**
-- B.Tech AIML
-- VIT Bhopal University
+- **Satyam**
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](#).
 
