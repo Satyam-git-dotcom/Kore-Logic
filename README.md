@@ -168,29 +168,6 @@ flowchart TD
 
 ---
 
-## 📸 Screenshots
-
-| Landing Page | Main Dashboard |
-| :---: | :---: |
-| ![Landing Page Placeholder](#) | ![Dashboard Placeholder](#) |
-
-| Skill Gap Analysis | AI Roadmap |
-| :---: | :---: |
-| ![Skill Gap Placeholder](#) | ![Roadmap Placeholder](#) |
-
-| Project Recommendations | Internship Matching |
-| :---: | :---: |
-| ![Projects Placeholder](#) | ![Internships Placeholder](#) |
-
-| AI Mentor | Weekly Reports |
-| :---: | :---: |
-| ![AI Mentor Placeholder](#) | ![Reports Placeholder](#) |
-
-| User Profile | System Settings |
-| :---: | :---: |
-| ![Profile Placeholder](#) | ![Settings Placeholder](#) |
-
----
 
 ## 🛠️ Technology Stack
 
