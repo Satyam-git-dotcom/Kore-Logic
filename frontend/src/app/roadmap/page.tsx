@@ -23,7 +23,7 @@ export default function RoadmapPage() {
         // Initialize completed status
         const initialCompleted: Record<string, boolean> = {};
         if (activeRoadmap.weeks_data) {
-          activeRoadmap.weeks_data.forEach((w: { name: string }) => {
+          activeRoadmap.weeks_data.forEach((w: any) => {
             initialCompleted[`week${w.week}`] = w.status === 'completed';
           });
         }
@@ -95,7 +95,7 @@ export default function RoadmapPage() {
                  <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-secondary"></div>
                </div>
             ) : roadmapData && roadmapData.weeks_data ? (
-              roadmapData.weeks_data.map((weekData: { name: string }, idx: number) => {
+              roadmapData.weeks_data.map((weekData: any, idx: number) => {
                 const isCompleted = completedWeeks[`week${weekData.week}`];
                 const isActive = weekData.status === 'in_progress';
                 const isLocked = weekData.status === 'locked';

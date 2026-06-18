@@ -10,8 +10,8 @@ export default function DashboardPage() {
   const [readiness, setReadiness] = useState(92);
   const [probability, setProbability] = useState(88);
   const [streak, setStreak] = useState(16);
+  const [completedProjects, setCompletedProjects] = useState(0);
   const [learning, setLearning] = useState(45);
-  const [matchesCount, setMatchesCount] = useState(24);
   
   useEffect(() => {
     const loadPredictions = async () => {
