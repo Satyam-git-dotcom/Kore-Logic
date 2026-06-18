@@ -1,0 +1,21 @@
+{
+  "venvPath": "backend",
+  "venv": "venv",
+  "pythonPath": "backend/venv/bin/python",
+  "executionEnvironments": [
+    {
+      "root": "backend",
+      "extraPaths": [
+        "backend"
+      ]
+    }
+  ],
+  "extraPaths": [
+    "backend"
+  ],
+  "exclude": [
+    "**/node_modules",
+    "**/__pycache__",
+    "frontend"
+  ]
+}
