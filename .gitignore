@@ -20,3 +20,5 @@ env/
 .vscode/
 .idea/
 *.swp
+*.db
+*.sqlite3
